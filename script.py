@@ -1,0 +1,1 @@
+print('hello quintel. im coming. are u ready?')
